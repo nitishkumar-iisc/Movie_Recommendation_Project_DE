@@ -36,6 +36,6 @@ Together, these two models help provide smarter, more accurate recommendations.
 
 ## How to Run
 
-Just open the notebook and run cells step‑by‑step. Make sure the dataset paths match your local environment.
+Just open the notebook and run cells step‑by‑step on google-colab. Make sure the dataset paths match your local environment.
 
-This README gives an easy-to-understand overview so anyone—even without ML knowledge—can follow what the project is about.
+
