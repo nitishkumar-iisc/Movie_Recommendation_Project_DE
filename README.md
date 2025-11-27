@@ -25,7 +25,7 @@ Together, these two models help provide smarter, more accurate recommendations.
 2. **Train ALS model:** This learns how users behave — which movies they like or dislike.
 3. **Train Word2Vec model:** This looks at groups of movies watched/rated together and learns which movies "go together".
 4. **Generate recommendations:** For each user, the system gives a list of movies they are most likely to enjoy.
-5. **Evaluate the results:** Uses NDCG@K to check how good the recommendations are.
+5. **Evaluate the results:** Uses Precision@100 and Recall@100 to check how good the recommendations are.
 
 ## Future Enhancements
 
